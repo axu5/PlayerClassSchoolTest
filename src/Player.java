@@ -1,7 +1,7 @@
 /**
  * Player.java
  *
- * Player from the most recent test. This calss is just to test out the methods
+ * Player from the most recent test. This class is just to test out the methods
  *
  * @author axu5 <github.com/axu5>
  * @version 16.02.2022
